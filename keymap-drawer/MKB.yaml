@@ -28,7 +28,7 @@ layers:
   - LSHFT
   - Z
   - X
-  - {t: C, h: Sft+MCLK}
+  - C
   - V
   - B
   - N
@@ -37,19 +37,19 @@ layers:
   - DOT
   - UP
   - FSLH
-  - {t: ESC, h: LCTL}
-  - LGUI
+  - {t: LCTRL, h: LCTL}
   - LALT
-  - {t: SPACE, h: Num}
+  - LGUI
+  - {t: LANG HANGEUL, h: Num}
   - {t: SPACE, h: Fnc}
-  - {t: SPACE, h: Fnc}
-  - {t: SPACE, h: Num}
+  - {t: BACKSPACE, h: Fnc}
+  - {t: ENTER, h: Num}
   - LEFT
   - DOWN
   - RIGHT
   - LEFT
   - UP
-  - SPACE
+  - LANGUAGE 1
   - DOWN
   - RIGHT
   - HOME
