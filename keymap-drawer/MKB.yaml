@@ -293,7 +293,7 @@ layers:
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
   - BT CLR ALL
-  - {t: ▽, type: trans}
+  - OUT USB
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
